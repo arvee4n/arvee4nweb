@@ -1,0 +1,97 @@
+body {background-color: #d2b48c;}
+div.ListBrowser {
+  width: 100%;
+  height: 20px;
+  background-color: #54636d;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  box-shadow: 0px 5px 5px rgb(84, 99, 109, .7);
+  -webkit-box-shadow: 0px 5px 5px rgb(84, 99, 109, .7);
+  -moz-box-shadow:box-shadow: 0px 5px 5px rgb(84, 99, 109, .7);
+}
+
+div.Home {
+  position: absolute;
+  left: 10px;
+}
+
+div.TIWB {
+  position: absolute;
+  left: 65px;
+}
+
+div.AirsoftGear {
+  position: absolute;
+  left: 280px;
+}
+
+div.GuitarGear {
+  position: absolute;
+  left: 375px;
+}
+
+div.rounded-head {
+  width: 350px;
+  height: 80px;
+  position: absolute;
+  left: 50%;
+  margin-left: -175px;
+  margin-top: 35px;
+  background-color: #f5f5dc;
+  border-style: solid;
+  border-color: #36454f;
+  border-width: 5px;
+  color: #36454f;
+  text-align: center;
+  text-shadow: 3px 3px 2px #CCC;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px rgb(54, 69, 79, .7);
+  -webkit-box-shadow: 5px 5px 5px rgb(54, 69, 79, .7);
+  -moz-box-shadow:box-shadow: 5px 5px 5px rgb(54, 69, 79, .7);
+}
+
+div.sub {
+  width: 150px;
+  height: 40px;
+  font-size: 25px;
+  text-align: center;
+  font-size: 12px;
+  position: relative;
+  left: 50%;
+  top: 120px;
+  margin-left: -75px;
+  background-color: #f5f5dc;
+  border-style: solid;
+  border-color: #36454f;
+  border-width: 5px;
+  border-top-width: 0px;
+  color: #36454f;
+  text-shadow: 3px 3px 2px #CCC;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  box-shadow: 5px 5px 5px rgb(54, 69, 79, .7);
+  -webkit-box-shadow: 5px 5px 5px rgb(54, 69, 79, .7);
+  -moz-box-shadow: 5px 5px 5px rgb(54, 69, 79, .7);
+}
+
+div.rules {
+  width: 400px;
+  height: 400px;
+  font-size: 25px;
+  position: relative;
+  left: 50%;
+  top: 150px;
+  margin-left: -200px;
+  background-color: #f5f5dc;
+  border-style: solid;
+  border-color: #36454f;
+  border-width: 5px;
+  color: #36454f;
+  text-align: center;
+  text-shadow: 3px 3px 2px #CCC;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px rgb(54, 69, 79, .7);
+  -webkit-box-shadow: 5px 5px 5px rgb(54, 69, 79, .7);
+  -moz-box-shadow: 5px 5px 5px rgb(54, 69, 79, .7);
+}
